@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468357818247",
+    "project_id": "o-bhai-cb048",
+    "storage_bucket": "o-bhai-cb048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468357818247:android:e139d319847f4e0d139522",
+        "android_client_info": {
+          "package_name": "com.example.obhai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468357818247-0ugjpce56nevfk0cftlagt6r0o06ekhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2seAVhj2mZW658QfOopjl1jDRjkT1yao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468357818247-0ugjpce56nevfk0cftlagt6r0o06ekhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
