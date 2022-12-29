@@ -45,20 +45,6 @@
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:contentDescription="@string/app_name"
-            android:id="@+id/addImageNote"
-            android:src="@drawable/ic_add_image"/>
-        <ImageView
-            android:layout_width="24dp"
-            android:layout_height="24dp"
-            android:contentDescription="@string/app_name"
-            android:id="@+id/weblink"
-            android:layout_marginStart="16dp"
-            android:src="@drawable/ic_web_link"/>
-
-        <ImageView
-            android:layout_width="24dp"
-            android:layout_height="24dp"
-            android:contentDescription="@string/app_name"
             android:id="@+id/addtextnote"
             android:layout_marginStart="16dp"
             android:src="@drawable/emoji"/>
